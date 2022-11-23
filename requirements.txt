@@ -1,0 +1,7 @@
+torch
+numpy
+pandas
+nltk
+matplotlib
+wget
+tqdm
