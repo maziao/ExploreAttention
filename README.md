@@ -110,6 +110,7 @@ and then run reformat.py to prepare the data.
 | +Key-Value       | 60.5     | 62.9     |
 | +Multi-layer     | 62.6     | 64.4     |
 | +Multi-head      | 64.9     | 66.3     |
+
 **Note**: Since the random number generator seed was not used in this experiment, the results of repeated experiments may have a deviation of no more than 2%.
 The model codes in this project are all implemented by myself. 
 A small amount of code in the data preprocessing part is a direct reference to other people's code, which is also clearly marked in the function documentation and a link to the source code is provided.
